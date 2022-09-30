@@ -1,3 +1,5 @@
+To Update records to RDS on aws through website hosted in EC2, and add files to S3 from same hosting
+
 sudo apt-get update
 # For Sql-client
 sudo apt-get install mysql-client
